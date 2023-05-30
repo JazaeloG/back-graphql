@@ -10,4 +10,4 @@ data:
  PROD_USER: hgfvhyxx
  PROD_PASSWORD: 0--JENXMvU_s2Ikfz0ww4Q_OAQIOXrT5
  PROD_HOST: suleiman.db.elephantsql.com
- PROD_PORT: 5432
+ PROD_PORT: "5432"
